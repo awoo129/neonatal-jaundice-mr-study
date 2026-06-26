@@ -1,0 +1,6 @@
+data/moba-gwas-jaundice-*.txt*
+data/moba-gwas-jaundice-*.txt.gz
+output/
+.DS_Store
+*.pyc
+__pycache__/

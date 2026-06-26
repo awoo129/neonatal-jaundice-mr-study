@@ -1,0 +1,7 @@
+"Exposure","Outcome","Method","OR","P_value","Significance"
+"Bilirubin levels","Neonatal Jaundice","IVW",1.425,2.4e-54,"***"
+"Bilirubin levels","Neonatal Jaundice","MR-Egger",1.399,5.5e-35,"***"
+"Acidaminococcaceae","Neonatal Jaundice","IVW",2.168,0.0015,"**"
+"Desulfovibrionaceae","Neonatal Jaundice","IVW",3.661,0.0024,"**"
+"Actinomycetaceae","Neonatal Jaundice","IVW",1.647,0.026,"*"
+"Clostridiales vadin BB60","Neonatal Jaundice","IVW",0.305,0.035,"*"
